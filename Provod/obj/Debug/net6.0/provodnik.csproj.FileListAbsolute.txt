@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\Provod\bin\Debug\net6.0\provodnik.exe
+C:\Users\Максим\Desktop\Provod\bin\Debug\net6.0\provodnik.deps.json
+C:\Users\Максим\Desktop\Provod\bin\Debug\net6.0\provodnik.runtimeconfig.json
+C:\Users\Максим\Desktop\Provod\bin\Debug\net6.0\provodnik.dll
+C:\Users\Максим\Desktop\Provod\bin\Debug\net6.0\provodnik.pdb
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\provodnik.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\provodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\provodnik.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\provodnik.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\provodnik.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\provodnik.dll
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\refint\provodnik.dll
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\provodnik.pdb
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\provodnik.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Provod\obj\Debug\net6.0\ref\provodnik.dll
